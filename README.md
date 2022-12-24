@@ -1,9 +1,10 @@
-# # AI-Surveillance-System
+# AI-Surveillance-System
 
 Welcome to our AI Surveillance System! This system is designed to provide enhanced security and safety in public spaces through the use of advanced machine learning and deep learning techniques. Our system offers the following features:
 
 ## Website
-![Gif](https://github.com/prathameshparit/AI-Surveillance-System/blob/47478936c50d9a4b0446a297c67564e0039b7eb3/ASS.gif?raw=true)
+
+https://user-images.githubusercontent.com/63944541/209446890-9425f027-d2ea-48e9-bffb-2d738cb4f757.mov
 
 1. **Camera Tampering Detection:** This feature uses machine learning algorithms to detect any tampering with the surveillance cameras and sends an alert to the authorities. This helps ensure that the surveillance system is always operational and provides a reliable source of information.
 
