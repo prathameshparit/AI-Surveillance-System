@@ -17,3 +17,4 @@ https://user-images.githubusercontent.com/63944541/209446890-9425f027-d2ea-48e9-
 In addition to these features, our system is built with robust technologies such as Tensorflow, Flask, HTML, CSS, and JavaScript. Haarcascades are also used in this project to improve the accuracy of our detection algorithms.
 
 We hope that this AI Surveillance System will make a positive impact on the security and safety of public spaces. Thank you for choosing our system.
+   
